@@ -1,6 +1,8 @@
 import requests
 NUM_QUESTION = 10
 TYPE_QUESTION = "boolean"
+
+
 class Data:
     def __init__(self):
         self.parameters = {
